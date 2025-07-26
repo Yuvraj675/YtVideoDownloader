@@ -1,6 +1,6 @@
 # YouTube Video Downloader
 
-(This websiteno longer works due to pytube not working)
+(This website no longer works due to pytube not working)
 
 A simple web application built with **Flask** and **Bootstrap** that allows you to download YouTube videos by providing a URL. It uses the `pytube` library to handle the downloading process.
 
